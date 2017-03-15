@@ -1,0 +1,19 @@
+{
+    "name": "takaruz/laravel5-post-pagination",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "takaruz",
+            "email": "p.poapetch@gmail.com"
+        }
+    ],
+    "require": {
+        "php" : ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Swader\\Diffbot\\": "src"
+        }
+    }
+}
